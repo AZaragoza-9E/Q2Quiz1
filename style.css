@@ -1,0 +1,19 @@
+body {
+	background-color: #8499B1;
+	color: #92898A;
+	background: url('https://media.istockphoto.com/id/1337229517/vector/newspaper-paper-grunge-vintage-old-aged-texture-background.jpg?s=612x612&w=0&k=20&c=gq8FhwdLFibfBVFiG3WKP6KyAGvXA-4rjwJzSGaP-7I=') no-repeat;
+	background-size:cover;
+}
+
+.container {
+	background-color: #311E10;
+}
+
+img {
+	width: 150px;
+}
+
+.footer {
+   text-align: center;
+   font-family: Dancing Script;
+}
